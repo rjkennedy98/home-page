@@ -1,8 +1,10 @@
-jboss-springmvc-webapp
+Home-Page
 ========================
 
 What is it?
 -----------
+
+This is my project! It is the home page. 
 
 This is your project! It is a sample, deployable Maven 3 project to help you get your foot in the door developing with Spring on JBoss Enterprise Application Platform 6 or JBoss AS 7.1. 
 
